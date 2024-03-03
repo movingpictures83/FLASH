@@ -1,0 +1,2 @@
+fastq1	input_1.fastq
+fastq2	input_2.fastq

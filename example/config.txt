@@ -1,0 +1,2 @@
+Prefix plugins/FLASH/example/
+Plugin FLASH inputfile parameters.txt outputfile output
